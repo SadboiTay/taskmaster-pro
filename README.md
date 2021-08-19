@@ -1,4 +1,5 @@
 # taskmaster-pro
+The ultimate way to track your tasks through each stage of completion by using drag and drop functionality and quick and easy datepickers.
 
 ## Website
 https://sadboitay.github.io/taskmaster-pro/
